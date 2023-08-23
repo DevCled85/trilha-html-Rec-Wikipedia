@@ -36,3 +36,7 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+
+table tbody td {
+    border: 1px solid black;
+}
